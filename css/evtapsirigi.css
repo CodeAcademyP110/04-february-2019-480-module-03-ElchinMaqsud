@@ -1,0 +1,289 @@
+body{
+	background: #2b77ad;
+}
+#main{
+	width: 1200px;
+	height: 1250px;
+	background: #2b77ad;
+	border: 2px solid white;
+	margin: 0 auto;
+	padding-top: 20px;
+}
+
+#mainbox{
+	width: 1000px;
+	height: 600px;
+	margin: 0 auto;
+	background: #2b77ad;
+	position: relative;
+	
+}
+#mainbox h1{
+	display: inline-block;
+	position: absolute;
+	top: 0px;
+	left: 245px;
+
+}
+.aaa{
+	width: 1000px;
+	height: 80px;
+	
+}
+.head{
+	width: 1000px;
+	height: 80px;
+	border-top: 2px solid white;
+	position: absolute;
+	top: 81px;
+	left:-2px;
+	font-size: 15px;
+}
+.head1{
+	width: 182px;
+	height: 80px;
+	display: inline-block;
+	position: relative;
+
+}
+.head2{
+	width: 322px;
+	height: 80px;
+	display: inline-block;
+	position: relative;
+	top: 0px;
+	left: 165px;
+}
+.head3{
+
+	width: 250px;
+	height: 80px;
+	position: relative;
+	display: inline-block;
+	top:0px;
+	left: 252px;
+}
+.head3 p{
+    width: 112px;
+	height: 40px;
+	color: white;
+	position: absolute;
+	top: 0px;
+	left:20px;
+	font-size: 24px;
+}
+.text{
+	color: white;
+}
+#mainbox p{
+	width: 142px;
+	height: 40px;
+	color: white;
+	position: absolute;
+	top: 0px;
+	left:20px;
+	font-size: 24px;
+}
+.icon1{
+	border:2px solid white;
+	background: white;
+	border-radius: 100%;
+	position: absolute;
+	top: 20px; 
+	left:144px;
+	padding: 8px 12px;
+	color: black;
+}
+.icon2{
+	border:2px solid white;
+	background: white;
+	border-radius: 100%;
+	position: absolute;
+	top: 20px; 
+	left:0px;
+	padding: 8px 12px;
+	color: black;
+}
+.icon3{
+	border:2px solid white;
+	background: white;
+	border-radius: 100%;
+	position: absolute;
+	top: 20px; 
+	left:285px;
+	padding: 8px 12px;
+	color: black;
+}
+.box1{
+	border:1px solid white;
+	background: transparent;
+	position: absolute;
+	top: 20px; 
+	left:47px;
+	padding: 8px 12px;
+
+}
+.box2{
+	border:1px solid white;
+	background: transparent;
+	position: absolute;
+	top: 20px; 
+	left:94px;
+	padding: 8px 12px;
+
+
+}
+.box3{
+	border:1px solid white;
+	background: transparent;
+	position: absolute;
+	top: 20px; 
+	left:141px;
+	padding: 8px 12px;
+
+}
+.box4{
+	border:1px solid white;
+	background: transparent;
+	position: absolute;
+	top: 20px; 
+	left:188px;
+	padding: 8px 12px;
+
+}
+.box5{
+	border:1px solid white;
+	background: transparent;
+	position: absolute;
+	top: 20px; 
+	left:235px;
+	padding: 8px 12px;
+
+}
+.icon5{
+	border:2px solid white;
+	background: white;
+	border-radius: 100%;
+	position: absolute;
+	top: 20px; 
+	left:175px;
+	padding: 8px 12px;
+	color: black;
+
+}
+#firstbox{
+	width: 1000px;
+	height: 300px;
+	border: 2px solid white;
+	position: relative;
+	margin-top:30px;
+
+}
+.firsttext{
+	width: 850px;
+	height:66px;
+	font-size: 30px;
+	position: absolute;
+	top: 10px;
+	left: 20px;
+	
+
+}
+.firstbox{
+	width: 100px;
+	height: 70px;
+	position: absolute;
+	border: 1px solid white;
+	top: 0px;
+	right: 0px;
+	font-size: 20px;
+}
+#common{
+	width: 1000px;
+	height: 160px;
+	border: 1px solid white;
+	position: relative;
+	top: 72px;
+	left: 0px;
+}
+.commonbox{
+	width: 135px;
+	height: 135px;
+	border: 1px solid white;
+	position: absolute;
+	top: 12px;
+	left: 12px;
+
+}
+.commontext{
+    width: 630px;
+    height: 135px;
+	position: absolute;
+	top:12px;
+	left: 160px;
+
+}
+.common1{
+	width: 135px;
+	height: 135px;
+	position: relative;
+	top: 12px;
+	left: 845px;
+}
+.commonbox2{
+	width: 135px;
+	height: 50px;
+	border: 1px solid white;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	font-size: 40px;
+}
+.commonbox3{
+	width: 135px;
+	height: 70px;
+	border: 1px solid white;
+	bottom: 0px;
+	left: 0px;
+	position: absolute;
+	font-size: 35px;
+
+}
+#endbox{
+width: 1000px;
+height: 65px;
+position: relative;
+top: 149px;
+left: -847px;
+}
+.endicon{
+	width: 70px;
+	height: 65px;
+	font-size: 40px;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+}
+.endtext{
+	width: 165px;
+	height: 45px;
+	position: absolute;
+	top: 14px;
+	left: 755px;
+	font-size: 25px;
+}
+.endicon2{
+	
+	position: absolute;
+	border:2px solid white;
+	background: white;
+	border-radius: 100%;
+	top: 5px;
+	left: 936px;
+	padding:15px 16px;
+	color: black;
+
+}
+
+
+
